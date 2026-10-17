@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mohssine Harhar 👋</h1>
+<h1 align="center">Hey, I'm Mohcine Harhar 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Building+AI+Marketing+Agents;Founder+%40+CoopCraftsPro;Learning+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
